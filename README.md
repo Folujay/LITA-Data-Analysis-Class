@@ -10,9 +10,9 @@
 
 [Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
-[Data Analysis](data-analysis)
+[Data Analysis](#data-analysis)
 
-[Data Visualization](data-visualization)
+[Data Visualization](#data-visualization)
 
 ### Project Overview
 ---
