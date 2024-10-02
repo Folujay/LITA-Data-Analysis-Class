@@ -1,6 +1,18 @@
-# LITA-Data-Analysis-Class
-
+ # LITA-Data-Analysis-Class
+ 
 ### Project Title: E commerce sale analysis
+
+[Project Overview](#project-overview)
+
+Material Sources
+
+Tools Used
+
+Data Cleaning and Preparations
+
+Data Analysis
+
+Data Visualization
 
 ### Project Overview
 ---
