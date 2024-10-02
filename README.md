@@ -52,8 +52,7 @@ WHERE CONDITION = TRUE
 ![basic-column-chart](https://github.com/user-attachments/assets/253a399c-a7bc-4e86-bf8e-86232255f694)
 
 
-|Headind 1|Heading 2|Heading 3|
+|Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
 
-### LITA-Data-Analysis-Class
