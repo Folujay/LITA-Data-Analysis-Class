@@ -4,15 +4,15 @@
 
 [Project Overview](#project-overview)
 
-Material Sources
+[Material Sources](#material-sources)
 
-Tools Used
+[Tools Used](#tools-used)
 
-Data Cleaning and Preparations
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
-Data Analysis
+[Data Analysis](data-analysis)
 
-Data Visualization
+[Data Visualization](data-visualization)
 
 ### Project Overview
 ---
