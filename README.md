@@ -16,3 +16,9 @@ sweet potato peels and orange which are not suitable for human consumption will 
 
 - SQL - Structured Query Language for Queryinng of Data
 - Github for Portfolio Building
+
+### Data Cleaning and Preparations
+In the initial phase of the Data cleaning and reparations, we perform the followinf action;
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data cleaning and formatting
