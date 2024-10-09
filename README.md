@@ -16,8 +16,7 @@
 
 ### Project Overview
 ---
-This study will evaluate the feeding potentials of the mixtures of tropical grasses with perishable fruits (Citrus), vegetables (amaranth), potato peel powder and brewers dried grains (BDG) silages in smallholding livestock systems.
-
+I was introduced to various aspect of Data Analysis and hand on practises on; Excel; Foundation of Data, Introduction to Excel, Excel functions, Report and dashboard in Excel, How to download and install Structured Query Language (SQL); SQL commands and types, SQL Data types, SQL keys, how to create Database and Table, how to drop, delete, truncate and update table, and Power Bi download and installation, principles of Data Visualization.
 ### Material Sources
 ---
 sweet potato peels and orange which are not suitable for human consumption will be sourced from fruit markets within neighbouring villages
